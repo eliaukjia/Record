@@ -1,3 +1,7 @@
 github 下载项目
 git clone git@github.com:eliaukjia/Record.git
 github 上传文件
+git add .  or git add kkk.txt
+git commit -m "github基本操作"
+git push origin main
+
