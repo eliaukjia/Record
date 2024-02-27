@@ -5,3 +5,5 @@ git add .  or git add kkk.txt
 git commit -m "github基本操作"
 git push -u origin main
 
+git pull origin main
+
